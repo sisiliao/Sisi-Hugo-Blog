@@ -1,0 +1,22 @@
+{
+  "name": "sisi-blog",
+  "version": "1.0.0",
+  "description": "Sisi's Hugo blog",
+  "main": "index.js",
+  "scripts": {
+    "algolia": "atomic-algolia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisiliao/Sisi-Hugo-Blog"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sisiliao/Sisi-Hugo-Blog/issues"
+  },
+  "homepage": "https://github.com/sisiliao/Sisi-Hugo-Blog#readme",
+  "dependencies": {
+    "atomic-algolia": "^0.3.19"
+  }
+}
